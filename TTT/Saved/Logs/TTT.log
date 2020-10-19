@@ -1,0 +1,811 @@
+﻿Log file open, 10/19/20 00:51:16
+LogInit: Display: Running engine for game: TTT
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.530139
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe -Mode=QueryTargets -Project="C:/Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/TTT.uproject" -Output="C:/Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Intermediate/TargetInfo.json"]
+LogInit: Warning: Incompatible or missing module: TTT
+Running C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe Development Win64 -Project="C:/Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/TTT.uproject" -TargetType=Editor -Progress -NoEngineChanges -NoHotReloadFromIDE
+Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Khush\Documents\GitHub\guzman_TicTacToe).
+Creating makefile for TTTEditor (.uproject file is newer)
+@progress push 5%
+Parsing headers for TTTEditor
+  Running UnrealHeaderTool "C:\Users\Khush\Documents\GitHub\guzman_TicTacToe\TTT\TTT.uproject" "C:\Users\Khush\Documents\GitHub\guzman_TicTacToe\TTT\Intermediate\Build\Win64\TTTEditor\Development\TTTEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Khush\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+Reflection code generated for TTTEditor in 16.353041 seconds
+@progress pop
+Building TTTEditor...
+Using Visual Studio 2019 14.27.29111 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+Building 9 actions with 8 processes...
+  @progress 'Compiling C++ source code...' 0%
+  @progress 'Compiling C++ source code...' 11%
+  [1/9] Default.rc2
+  @progress 'Compiling C++ source code...' 22%
+  [2/9] SharedPCH.Engine.ShadowErrors.cpp
+  @progress 'Compiling C++ source code...' 33%
+  [3/9] TTT.init.gen.cpp
+  @progress 'Compiling C++ source code...' 44%
+  [4/9] MyAI.cpp
+  @progress 'Compiling C++ source code...' 56%
+  [5/9] TTT.cpp
+  @progress 'Compiling C++ source code...' 67%
+  [6/9] MyAI.gen.cpp
+  @progress 'Compiling C++ source code...' 78%
+  [7/9] UE4Editor-TTT.lib
+     Creating library C:\Users\Khush\Documents\GitHub\guzman_TicTacToe\TTT\Intermediate\Build\Win64\UE4Editor\Development\TTT\UE4Editor-TTT.lib and object C:\Users\Khush\Documents\GitHub\guzman_TicTacToe\TTT\Intermediate\Build\Win64\UE4Editor\Development\TTT\UE4Editor-TTT.exp
+  @progress 'Compiling C++ source code...' 89%
+  [8/9] UE4Editor-TTT.dll
+     Creating library C:\Users\Khush\Documents\GitHub\guzman_TicTacToe\TTT\Intermediate\Build\Win64\UE4Editor\Development\TTT\UE4Editor-TTT.suppressed.lib and object C:\Users\Khush\Documents\GitHub\guzman_TicTacToe\TTT\Intermediate\Build\Win64\UE4Editor\Development\TTT\UE4Editor-TTT.suppressed.exp
+  @progress 'Compiling C++ source code...' 100%
+  [9/9] TTTEditor.target
+Total time in Parallel executor: 223.88 seconds
+Total execution time: 423.45 seconds
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13942748
+LogInit: Engine Version: 4.25.3-13942748+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jul 25 2020 02:07:48
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line:  -EpicPortal -epicusername=LockeKhushrenada -epicuserid=85f0439187e548f8958ec15d240962c6 -epiclocale=en
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.10.19-05.58.37:471][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.10.19-05.58.37:471][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.10.19-05.58.37:472][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Config/Windows/Engine.ini]
+[2020.10.19-05.58.37:472][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.10.19-05.58.37:472][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Config/Windows/Engine.ini]
+[2020.10.19-05.58.37:472][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Config/Windows/Engine.ini]
+[2020.10.19-05.58.37:472][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.10.19-05.58.37:472][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.10.19-05.58.37:472][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.10.19-05.58.37:472][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.10.19-05.58.37:472][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.10.19-05.58.37:472][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.10.19-05.58.37:472][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.10.19-05.58.37:472][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.10.19-05.58.37:472][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.10.19-05.58.37:472][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.10.19-05.58.37:472][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.10.19-05.58.37:472][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.10.19-05.58.37:472][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.10.19-05.58.37:472][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.10.19-05.58.37:472][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Config/Windows/Engine.ini]
+[2020.10.19-05.58.37:472][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.10.19-05.58.37:472][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.10.19-05.58.37:473][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.10.19-05.58.37:473][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.10.19-05.58.37:473][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.10.19-05.58.37:473][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.10.19-05.58.37:473][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.10.19-05.58.37:473][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.10.19-05.58.37:473][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.10.19-05.58.37:473][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.10.19-05.58.37:473][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.10.19-05.58.37:473][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.10.19-05.58.37:473][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.10.19-05.58.37:473][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Config/Windows/Engine.ini]
+[2020.10.19-05.58.37:473][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Config/Windows/Engine.ini]
+[2020.10.19-05.58.37:568][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-05.58.37:568][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.19-05.58.37:568][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.19-05.58.37:568][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-05.58.37:568][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.10.19-05.58.37:568][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-05.58.37:568][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.19-05.58.37:568][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.19-05.58.37:568][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.19-05.58.37:569][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.19-05.58.37:569][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.19-05.58.37:569][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.19-05.58.37:569][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.19-05.58.37:569][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.19-05.58.37:569][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.19-05.58.37:569][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.19-05.58.37:569][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.19-05.58.37:569][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.19-05.58.37:569][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.19-05.58.37:569][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.19-05.58.37:569][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.19-05.58.37:569][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.19-05.58.37:569][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.19-05.58.37:569][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.19-05.58.37:569][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-05.58.37:569][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.10.19-05.58.37:569][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.19-05.58.37:569][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.19-05.58.37:569][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.19-05.58.37:569][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.19-05.58.37:569][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.10.19-05.58.37:569][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.19-05.58.37:569][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.10.19-05.58.37:569][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.10.19-05.58.37:569][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.19-05.58.37:569][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.10.19-05.58.37:569][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.10.19-05.58.37:569][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.19-05.58.37:569][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.19-05.58.37:569][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.19-05.58.37:569][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.19-05.58.37:569][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.19-05.58.37:569][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.19-05.58.37:570][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.19-05.58.37:570][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.19-05.58.37:570][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.19-05.58.37:570][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.19-05.58.37:570][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.19-05.58.37:570][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.19-05.58.37:570][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.19-05.58.37:570][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.19-05.58.37:570][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.19-05.58.37:570][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.19-05.58.37:570][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.19-05.58.37:570][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.19-05.58.37:570][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-05.58.37:570][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.19-05.58.37:570][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.19-05.58.37:570][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.19-05.58.37:570][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.19-05.58.37:570][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.19-05.58.37:570][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.10.19-05.58.37:570][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.19-05.58.37:570][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.19-05.58.37:570][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.19-05.58.37:570][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-05.58.37:570][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.10.19-05.58.37:570][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.19-05.58.37:570][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.10.19-05.58.37:570][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.10.19-05.58.37:570][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.10.19-05.58.37:570][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.19-05.58.37:570][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.10.19-05.58.37:570][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.19-05.58.37:570][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.19-05.58.37:570][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.19-05.58.37:570][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.19-05.58.37:570][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.10.19-05.58.37:570][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.10.19-05.58.37:571][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.19-05.58.37:571][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.19-05.58.37:571][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.10.19-05.58.37:571][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.10.19-05.58.37:571][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.10.19-05.58.37:571][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.10.19-05.58.37:571][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.10.19-05.58.37:571][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.10.19-05.58.37:571][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.10.19-05.58.37:571][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.10.19-05.58.37:571][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.10.19-05.58.37:571][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.10.19-05.58.37:571][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.10.19-05.58.37:571][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-05.58.37:571][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.19-05.58.37:571][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.19-05.58.37:571][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-05.58.37:571][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.10.19-05.58.37:571][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.10.19-05.58.37:571][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.10.19-05.58.37:571][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.10.19-05.58.37:571][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.10.19-05.58.37:571][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.10.19-05.58.37:571][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.10.19-05.58.37:601][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.19-05.58.37:615][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.10.19-05.58.37:710][  0]LogHAL: Display: Platform has ~ 8 GB [8467877888 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.10.19-05.58.37:710][  0]LogInit: Going up to parent DeviceProfile []
+[2020.10.19-05.58.37:710][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-05.58.37:710][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.19-05.58.37:710][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.19-05.58.37:710][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-05.58.37:710][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.10.19-05.58.37:710][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-05.58.37:710][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.19-05.58.37:710][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.19-05.58.37:711][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.19-05.58.37:711][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.19-05.58.37:711][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.19-05.58.37:711][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.19-05.58.37:711][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.19-05.58.37:711][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.19-05.58.37:711][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.19-05.58.37:711][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.19-05.58.37:711][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.19-05.58.37:711][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.19-05.58.37:711][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.19-05.58.37:711][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.19-05.58.37:711][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.19-05.58.37:711][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.19-05.58.37:711][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.19-05.58.37:711][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.19-05.58.37:711][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-05.58.37:711][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.10.19-05.58.37:711][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.19-05.58.37:711][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.19-05.58.37:711][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.19-05.58.37:711][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.19-05.58.37:711][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.10.19-05.58.37:711][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.19-05.58.37:711][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.10.19-05.58.37:711][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.10.19-05.58.37:711][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.19-05.58.37:711][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.10.19-05.58.37:713][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.10.19-05.58.37:713][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.19-05.58.37:713][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.19-05.58.37:713][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.19-05.58.37:713][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.19-05.58.37:713][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.19-05.58.37:713][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.19-05.58.37:713][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.19-05.58.37:713][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.19-05.58.37:713][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.19-05.58.37:713][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.19-05.58.37:713][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.19-05.58.37:713][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.19-05.58.37:713][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.19-05.58.37:713][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.19-05.58.37:713][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.19-05.58.37:713][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.19-05.58.37:713][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.19-05.58.37:713][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.19-05.58.37:713][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-05.58.37:713][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.19-05.58.37:713][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.19-05.58.37:713][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.19-05.58.37:713][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.19-05.58.37:713][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.19-05.58.37:714][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.10.19-05.58.37:714][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.19-05.58.37:714][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.19-05.58.37:714][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.19-05.58.37:714][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-05.58.37:714][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.10.19-05.58.37:714][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.19-05.58.37:714][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.10.19-05.58.37:714][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.10.19-05.58.37:714][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.10.19-05.58.37:714][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.19-05.58.37:714][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.10.19-05.58.37:714][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.19-05.58.37:714][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.19-05.58.37:714][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.19-05.58.37:714][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.19-05.58.37:714][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.10.19-05.58.37:714][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.10.19-05.58.37:714][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.19-05.58.37:714][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.19-05.58.37:714][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.10.19-05.58.37:714][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.10.19-05.58.37:714][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.10.19-05.58.37:714][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.10.19-05.58.37:714][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.10.19-05.58.37:714][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.10.19-05.58.37:714][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.10.19-05.58.37:714][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.10.19-05.58.37:714][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.10.19-05.58.37:714][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.10.19-05.58.37:714][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.10.19-05.58.37:714][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-05.58.37:714][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.19-05.58.37:714][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.19-05.58.37:714][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-05.58.37:714][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.10.19-05.58.37:715][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.10.19-05.58.37:715][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.10.19-05.58.37:715][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.10.19-05.58.37:715][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.10.19-05.58.37:715][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.10.19-05.58.37:715][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.10.19-05.58.37:715][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.10.19-05.58.37:731][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.10.19-05.58.37:731][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.10.19-05.58.37:731][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.10.19-05.58.37:731][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Config/Windows/Engine.ini]
+[2020.10.19-05.58.37:778][  0]LogInit: Computer: DESKTOP-D0ALFV9
+[2020.10.19-05.58.37:778][  0]LogInit: User: Khush
+[2020.10.19-05.58.37:779][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.10.19-05.58.37:779][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.10.19-05.58.37:792][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.10.19-05.58.37:793][  0]LogMemory: Platform Memory Stats for Windows
+[2020.10.19-05.58.37:793][  0]LogMemory: Process Physical Memory: 116.23 MB used, 116.24 MB peak
+[2020.10.19-05.58.37:793][  0]LogMemory: Process Virtual Memory: 96.58 MB used, 96.58 MB peak
+[2020.10.19-05.58.37:793][  0]LogMemory: Physical Memory: 5540.37 MB used,  2535.23 MB free, 8075.60 MB total
+[2020.10.19-05.58.37:793][  0]LogMemory: Virtual Memory: 5205.04 MB used,  134212520.00 MB free, 134217728.00 MB total
+[2020.10.19-05.58.37:837][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.10.19-05.58.40:087][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.10.19-05.58.40:115][  0]LogInit: Using OS detected language (en-US).
+[2020.10.19-05.58.40:115][  0]LogInit: Using OS detected locale (en-US).
+[2020.10.19-05.58.41:007][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.10.19-05.58.42:047][  0]LogInit: Setting process to per monitor DPI aware
+[2020.10.19-05.58.43:482][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.10.19-05.58.43:482][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.10.19-05.58.52:369][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.19-05.58.52:369][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.10.19-05.58.52:369][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.10.19-05.58.52:369][  0]LogD3D11RHI: D3D11 adapters:
+[2020.10.19-05.58.53:248][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2020.10.19-05.58.53:248][  0]LogD3D11RHI:       6061/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.10.19-05.58.55:131][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.10.19-05.58.55:131][  0]LogD3D11RHI:       128/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.10.19-05.58.55:194][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.10.19-05.58.55:194][  0]LogD3D11RHI:       0/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.10.19-05.58.55:194][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.10.19-05.58.55:386][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.10.19-05.58.55:386][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2020.10.19-05.58.55:396][  0]LogWindows: EnumDisplayDevices:
+[2020.10.19-05.58.55:397][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.10.19-05.58.55:397][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.10.19-05.58.55:397][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.10.19-05.58.55:398][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.10.19-05.58.55:398][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2020.10.19-05.58.55:398][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2020.10.19-05.58.55:398][  0]LogD3D11RHI:   Driver Version: 388.16 (internal:23.21.13.8816, unified:388.16)
+[2020.10.19-05.58.55:398][  0]LogD3D11RHI:      Driver Date: 10-30-2017
+[2020.10.19-05.58.55:399][  0]LogRHI: Texture pool is 4242 MB (70% of 6061 MB)
+[2020.10.19-05.58.55:517][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.10.19-05.58.55:714][  0]LogD3D11RHI: [Aftermath] Failed to initialize. Result=bad0000b
+[2020.10.19-05.58.55:714][  0]LogD3D11RHI: Async texture creation enabled
+[2020.10.19-05.58.55:714][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.10.19-05.58.56:560][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 4)
+[2020.10.19-05.58.57:288][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.10.19-05.58.57:370][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.10.19-05.58.57:370][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.10.19-05.58.57:370][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.10.19-05.58.57:370][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.10.19-05.58.57:370][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.10.19-05.58.57:370][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.10.19-05.58.57:370][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.10.19-05.58.57:370][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.10.19-05.58.57:370][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.10.19-05.58.57:370][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.10.19-05.58.57:596][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.10.19-05.58.57:597][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.10.19-05.58.57:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.10.19-05.58.57:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.10.19-05.58.57:755][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.10.19-05.58.57:833][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.10.19-05.58.57:878][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.10.19-05.58.57:922][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.10.19-05.58.57:965][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.10.19-05.58.58:012][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.10.19-05.58.58:012][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.10.19-05.58.58:069][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.10.19-05.58.58:069][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.10.19-05.58.58:119][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.10.19-05.58.58:152][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.10.19-05.58.58:178][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.10.19-05.58.58:207][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.10.19-05.58.58:207][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.10.19-05.58.58:497][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.10.19-05.58.59:751][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Intermediate/Shaders/WorkingDirectory/8204/).
+[2020.10.19-05.58.59:751][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Khush/AppData/Local/Temp/UnrealShaderWorkingDir/07B965234A7D252779AA6DA530EC8B25/'.
+[2020.10.19-05.58.59:808][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.10.19-05.58.59:808][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.10.19-05.58.59:809][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.10.19-05.59.11:684][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.10.19-05.59.13:719][  0]LogDerivedDataCache: Loaded boot cache 1.99s 124MB C:/Users/Khush/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.10.19-05.59.13:719][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Khush/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.10.19-05.59.13:719][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.10.19-05.59.13:719][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.10.19-05.59.13:719][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.19-05.59.13:719][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.10.19-05.59.13:763][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.10.19-05.59.13:763][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.19-05.59.13:763][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.10.19-05.59.13:767][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Khush/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.10.19-05.59.13:767][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.10.19-05.59.13:768][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.10.19-05.59.14:195][  0]LogSlate: Using FreeType 2.10.0
+[2020.10.19-05.59.14:255][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.10.19-05.59.17:498][  0]LogAssetRegistry: FAssetRegistry took 0.0580 seconds to start up
+[2020.10.19-05.59.35:836][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.19-05.59.43:734][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.10.19-05.59.43:734][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.10.19-05.59.43:734][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.10.19-05.59.43:734][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.10.19-05.59.43:735][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.10.19-05.59.45:565][  0]LogNetVersion: TTT 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 405535175)
+[2020.10.19-06.00.25:652][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000021870C850C0), frame # 0
+[2020.10.19-06.00.25:652][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021871AF9E40), frame # 0
+[2020.10.19-06.00.25:723][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021870C6E800), frame # 0
+[2020.10.19-06.00.27:158][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.623656 seconds
+[2020.10.19-06.00.27:193][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.10.19-06.00.27:193][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.10.19-06.00.27:193][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.10.19-06.00.41:229][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.10.19-06.00.41:492][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.10.19-06.00.44:047][  0]SourceControl: Source control is disabled
+[2020.10.19-06.00.44:055][  0]SourceControl: Source control is disabled
+[2020.10.19-06.00.44:436][  0]SourceControl: Source control is disabled
+[2020.10.19-06.00.44:465][  0]SourceControl: Source control is disabled
+[2020.10.19-06.00.44:866][  0]SourceControl: Source control is disabled
+[2020.10.19-06.00.53:867][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.10.19-06.00.54:480][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.10.19-06.00.54:480][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.10.19-06.00.55:655][  0]LogOcInput: OculusInput pre-init called
+[2020.10.19-06.00.56:043][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.10.19-06.00.56:043][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.10.19-06.00.59:593][  0]LogAutomationTest: Warning: Smoke tests took > 2s to run: 2.07s
+[2020.10.19-06.00.59:825][  0]LogEngine: Initializing Engine...
+[2020.10.19-06.00.59:953][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.19-06.00.59:953][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.10.19-06.01.00:016][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.036 s
+[2020.10.19-06.01.00:512][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.10.19-06.01.02:176][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.10.19-06.01.02:176][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000218741E1C00), frame # 0
+[2020.10.19-06.01.02:184][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021874238680), frame # 0
+[2020.10.19-06.01.02:868][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.19-06.01.02:868][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.19-06.01.02:868][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.19-06.01.02:868][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.19-06.01.02:868][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.19-06.01.02:868][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.19-06.01.02:868][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.19-06.01.02:877][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.19-06.01.02:926][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.19-06.01.02:943][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.19-06.01.03:393][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.19-06.01.03:393][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.10.19-06.01.03:503][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2020.10.19-06.01.03:532][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.19-06.01.03:536][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.19-06.01.03:536][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.19-06.01.03:699][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.19-06.01.03:699][  0]LogInit: FAudioDevice initialized.
+[2020.10.19-06.01.03:700][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.10.19-06.01.05:391][  0]LogDerivedDataCache: Saved boot cache 1.69s 124MB C:/Users/Khush/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.10.19-06.01.05:424][  0]LogInit: Texture streaming: Enabled
+[2020.10.19-06.01.06:273][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.10.19-06.01.06:273][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.10.19-06.01.07:250][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.10.19-06.01.10:444][  0]LogInit: Transaction tracking system initialized
+[2020.10.19-06.01.13:411][  0]BlueprintLog: New page: Editor Load
+[2020.10.19-06.01.18:575][  0]LocalizationService: Localization service is disabled
+[2020.10.19-06.01.25:123][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Content/' took 0.09s
+[2020.10.19-06.01.25:123][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.10.19-06.01.25:123][  0]LogCook: Display: Mobile HDR setting 1
+[2020.10.19-06.01.34:924][  0]SourceControl: Source control is disabled
+[2020.10.19-06.01.35:772][  0]LogSlate: Took 0.012251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.19-06.02.45:025][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2020.10.19-06.02.45:026][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.19-06.02.45:433][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.19-06.02.47:809][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2020.10.19-06.02.47:810][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.19-06.02.47:818][  0]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/game
+[2020.10.19-06.02.48:026][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.19-06.02.48:028][  0]LogUnrealEdMisc: Loading editor; pre map load, took 694.751
+[2020.10.19-06.02.48:209][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Content/game.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.19-06.02.48:280][  0]LightingResults: New page: Lighting Build
+[2020.10.19-06.02.48:405][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.10.19-06.02.48:434][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.19-06.02.48:473][  0]MapCheck: New page: Map Check
+[2020.10.19-06.02.48:473][  0]LightingResults: New page: Lighting Build
+[2020.10.19-06.02.49:035][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000218741E1C00), frame # 0
+[2020.10.19-06.02.49:035][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021874238680), frame # 0
+[2020.10.19-06.02.49:036][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.10.19-06.02.50:285][  0]LogLinker: Warning: While loading '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Content/game.umap' failed to load '/Game/game_BuiltData': Can't find file.
+[2020.10.19-06.02.50:286][  0]LogLinker: Warning: While loading '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Content/game.umap' failed to load '/Game/game_BuiltData': Can't find file.
+[2020.10.19-06.02.50:288][  0]LogLinker: Warning: While loading '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Content/game.umap' failed to load '/Game/game_BuiltData': Can't find file.
+[2020.10.19-06.02.50:288][  0]LogLinker: Warning: While loading '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Content/game.umap' failed to load '/Game/game_BuiltData': Can't find file.
+[2020.10.19-06.02.50:288][  0]LogLinker: Warning: Failed to load '/Game/game_BuiltData': Can't find file.
+[2020.10.19-06.02.50:289][  0]LogLinker: Warning: Failed to load '/Game/game_BuiltData': Can't find file.
+[2020.10.19-06.02.50:289][  0]LogLinker: Warning: Failed to load '/Game/game_BuiltData': Can't find file.
+[2020.10.19-06.02.50:289][  0]LogLinker: Warning: Failed to load '/Game/game_BuiltData': Can't find file.
+[2020.10.19-06.02.50:353][  0]LogLinker: Warning: While loading '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Content/game.umap' failed to load '/Game/game_BuiltData': Can't find file.
+[2020.10.19-06.02.50:353][  0]LoadErrors: Failed to load /Game/game_BuiltData.game_BuiltData Referenced by PersistentLevel
+[2020.10.19-06.02.50:353][  0]LogLinker: Warning: While loading '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Content/game.umap' failed to load '/Game/game_BuiltData': Can't find file.
+[2020.10.19-06.02.50:353][  0]LoadErrors: Failed to load /Game/game_BuiltData.game_BuiltData Referenced by PersistentLevel
+[2020.10.19-06.02.50:805][  0]LogAIModule: Creating AISystem for world game
+[2020.10.19-06.02.50:805][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000218605BFE00), frame # 0
+[2020.10.19-06.02.50:805][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002185E975E40), frame # 0
+[2020.10.19-06.02.51:306][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.19-06.02.51:494][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.10.19-06.02.51:503][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.19-06.02.51:504][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.536ms to complete.
+[2020.10.19-06.02.51:504][  0]LogFileHelpers: Loading map 'game' took 3.438
+[2020.10.19-06.02.52:752][  0]LogUnrealEdMisc: Total Editor Startup Time, took 699.474
+[2020.10.19-06.02.53:799][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.19-06.02.53:808][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.19-06.02.53:816][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.19-06.02.53:824][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.19-06.02.54:085][  0]LogCollectionManager: Loaded 0 collections in 0.004330 seconds
+[2020.10.19-06.02.54:311][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Collections/' took 0.00s
+[2020.10.19-06.02.54:311][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Content/Developers/Khush/Collections/' took 0.00s
+[2020.10.19-06.02.54:311][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Content/Collections/' took 0.00s
+[2020.10.19-06.02.54:311][  0]LogContentBrowser: Native class hierarchy populated in 0.0369 seconds. Added 3428 classes and 823 folders.
+[2020.10.19-06.02.54:467][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.10.19-06.03.00:330][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2020.10.19-06.03.00:519][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0010 seconds. Added 2 classes and 0 folders.
+[2020.10.19-06.03.01:508][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.10.19-06.03.01:508][  0]LogLoad: (Engine Initialization) Total time: 708.23 seconds
+[2020.10.19-06.03.01:508][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.10.19-06.03.02:421][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.10.19-06.03.02:699][  0]LogSlate: Took 0.050873 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.10.19-06.03.02:942][  0]LogSlate: Took 0.199356 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.10.19-06.03.04:400][  0]LogRenderer: Reallocating scene render targets to support 960x420 Format 10 NumSamples 1 (Frame:1).
+[2020.10.19-06.03.04:400][  0]LogSlate: Took 0.046425 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.19-06.03.05:022][  0]LogSlate: Took 0.054297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.10.19-06.03.06:550][  2]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.19-06.03.06:641][  3]LogAssetRegistry: Asset discovery search completed in 229.1943 seconds
+[2020.10.19-06.03.06:695][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.026278 seconds (updated 0 objects)
+[2020.10.19-06.03.43:374][967]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NewPawn.NewPawn
+[2020.10.19-06.03.48:086][967]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 125 classes and 0 folders.
+[2020.10.19-06.03.59:338][967]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/bpAI.bpAI
+[2020.10.19-06.04.00:209][967]LogSlate: Took 0.096061 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.10.19-06.04.17:780][637]LogSlate: Window 'Message Log' being destroyed
+[2020.10.19-06.04.17:785][637]LogSlate: Window 'Message Log' being destroyed
+[2020.10.19-06.04.19:890][688]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2020.10.19-06.04.22:205][688]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2020.10.19-06.04.25:766][750]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.10.19-07.51.52:216][480]LogSlate: Took 0.040479 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.10.19-10.23.51:807][145]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.10.19-10.23.54:261][145]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.10.19-10.24.01:086][146]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.10.19-10.50.41:635][ 64]LogUObjectHash: Compacting FUObjectHashTables data took 601.54ms
+[2020.10.19-10.50.43:712][ 64]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/game' took 12.113
+[2020.10.19-10.50.45:062][ 64]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NewPawn] ([1] browsable assets)...
+[2020.10.19-10.50.46:895][ 64]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/NewPawn.NewPawn]
+[2020.10.19-10.50.46:895][ 64]OBJ SavePackage: Finished generating thumbnails for package [/Game/NewPawn]
+[2020.10.19-10.50.46:941][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewPawn" FILE="../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Autosaves/Game/NewPawn_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.10.19-10.50.54:590][ 64]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/NewPawn_Auto1B025E1A8451C39CE7518B6A86AD0BBF0.tmp' to '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Autosaves/Game/NewPawn_Auto1.uasset'
+[2020.10.19-10.50.55:318][ 64]LogFileHelpers: Auto-saving content packages took 11.559
+[2020.10.19-12.26.14:312][142]LogUObjectHash: Compacting FUObjectHashTables data took 179.12ms
+[2020.10.19-12.26.14:790][142]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/game' took 1.859
+[2020.10.19-12.26.14:855][142]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bpAI] ([1] browsable assets)...
+[2020.10.19-12.26.14:884][142]OBJ SavePackage: Finished generating thumbnails for package [/Game/bpAI]
+[2020.10.19-12.26.14:884][142]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bpAI" FILE="../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Autosaves/Game/bpAI_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.10.19-12.26.16:990][142]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/bpAI_Auto2CF710371432F0ADF50C7A4820F1B158E.tmp' to '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Autosaves/Game/bpAI_Auto2.uasset'
+[2020.10.19-12.26.17:006][142]LogFileHelpers: Auto-saving content packages took 2.215
+[2020.10.19-13.34.49:152][965]LogUObjectHash: Compacting FUObjectHashTables data took  53.18ms
+[2020.10.19-13.34.49:266][965]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/game' took 0.604
+[2020.10.19-13.34.49:269][965]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bpAI] ([1] browsable assets)...
+[2020.10.19-13.34.49:269][965]OBJ SavePackage: Finished generating thumbnails for package [/Game/bpAI]
+[2020.10.19-13.34.49:269][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bpAI" FILE="../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Autosaves/Game/bpAI_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.10.19-13.34.50:057][965]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/bpAI_Auto3FA996080436F39A2149671B5DA650DF5.tmp' to '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Autosaves/Game/bpAI_Auto3.uasset'
+[2020.10.19-13.34.50:081][965]LogFileHelpers: Auto-saving content packages took 0.813
+[2020.10.19-13.49.47:565][322]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.10.19-13.49.47:615][322]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/game' took 0.088
+[2020.10.19-13.49.47:615][322]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bpAI] ([1] browsable assets)...
+[2020.10.19-13.49.47:615][322]OBJ SavePackage: Finished generating thumbnails for package [/Game/bpAI]
+[2020.10.19-13.49.47:615][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bpAI" FILE="../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Autosaves/Game/bpAI_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2020.10.19-13.49.47:735][322]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/bpAI_Auto4EF93EE2143CD38A386471C9E53947E20.tmp' to '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Autosaves/Game/bpAI_Auto4.uasset'
+[2020.10.19-13.49.47:737][322]LogFileHelpers: Auto-saving content packages took 0.122
+[2020.10.19-14.20.09:523][867]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.10.19-14.26.38:061][718]LogUObjectHash: Compacting FUObjectHashTables data took  40.74ms
+[2020.10.19-14.26.38:227][718]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/game' took 0.905
+[2020.10.19-14.26.38:230][718]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bpAI] ([1] browsable assets)...
+[2020.10.19-14.26.38:230][718]OBJ SavePackage: Finished generating thumbnails for package [/Game/bpAI]
+[2020.10.19-14.26.38:230][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bpAI" FILE="../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Autosaves/Game/bpAI_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2020.10.19-14.26.39:329][718]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/bpAI_Auto5F606969E4485EE2406393D8A9574133D.tmp' to '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Autosaves/Game/bpAI_Auto5.uasset'
+[2020.10.19-14.26.39:367][718]LogFileHelpers: Auto-saving content packages took 1.139
+[2020.10.19-14.43.49:889][ 72]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.10.19-14.43.50:390][ 72]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.10.19-14.51.23:048][242]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.10.19-14.51.23:063][242]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/game' took 0.307
+[2020.10.19-14.51.23:064][242]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bpAI] ([1] browsable assets)...
+[2020.10.19-14.51.23:065][242]OBJ SavePackage: Finished generating thumbnails for package [/Game/bpAI]
+[2020.10.19-14.51.23:065][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bpAI" FILE="../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Autosaves/Game/bpAI_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2020.10.19-14.51.23:676][242]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/bpAI_Auto6E1E05DBB4D0A01DC41192D8FEE78787B.tmp' to '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Autosaves/Game/bpAI_Auto6.uasset'
+[2020.10.19-14.51.23:678][242]LogFileHelpers: Auto-saving content packages took 0.614
+[2020.10.19-15.01.24:067][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.10.19-15.01.24:153][646]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/game' took 0.206
+[2020.10.19-15.01.24:154][646]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bpAI] ([1] browsable assets)...
+[2020.10.19-15.01.24:154][646]OBJ SavePackage: Finished generating thumbnails for package [/Game/bpAI]
+[2020.10.19-15.01.24:154][646]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bpAI" FILE="../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Autosaves/Game/bpAI_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2020.10.19-15.01.24:697][646]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/bpAI_Auto7D4C8019240F55EC45A81839017A0D4B2.tmp' to '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Autosaves/Game/bpAI_Auto7.uasset'
+[2020.10.19-15.01.24:698][646]LogFileHelpers: Auto-saving content packages took 0.544
+[2020.10.19-15.10.18:850][861]LogEditorTransaction: Undo Straighten Connection(s)
+[2020.10.19-15.10.30:671][901]LogEditorTransaction: Undo Add Node
+[2020.10.19-15.12.26:815][534]LogUObjectHash: Compacting FUObjectHashTables data took 117.85ms
+[2020.10.19-15.12.27:104][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/game" FILE="../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Autosaves/Game/game_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.10.19-15.12.30:096][534]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/game_Auto8BE74D18C40C0BA2BAADBED85BE227789.tmp' to '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Autosaves/Game/game_Auto8.umap'
+[2020.10.19-15.12.30:303][534]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/game' took 4.386
+[2020.10.19-15.12.30:303][534]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 4.386
+[2020.10.19-15.12.30:304][534]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bpAI] ([1] browsable assets)...
+[2020.10.19-15.12.30:304][534]OBJ SavePackage: Finished generating thumbnails for package [/Game/bpAI]
+[2020.10.19-15.12.30:304][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bpAI" FILE="../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Autosaves/Game/bpAI_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2020.10.19-15.12.30:861][534]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/bpAI_Auto82F3375C44B094E926C9B59A271D1F6AD.tmp' to '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Autosaves/Game/bpAI_Auto8.uasset'
+[2020.10.19-15.12.30:862][534]LogFileHelpers: Auto-saving content packages took 0.558
+[2020.10.19-15.22.33:373][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.10.19-15.22.33:379][613]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/game' took 0.609
+[2020.10.19-15.22.33:381][613]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bpAI] ([1] browsable assets)...
+[2020.10.19-15.22.33:381][613]OBJ SavePackage: Finished generating thumbnails for package [/Game/bpAI]
+[2020.10.19-15.22.33:381][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bpAI" FILE="../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Autosaves/Game/bpAI_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2020.10.19-15.22.36:950][613]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/bpAI_Auto99018180C42D7ED0CE4BB9695369700C1.tmp' to '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Autosaves/Game/bpAI_Auto9.uasset'
+[2020.10.19-15.22.36:952][613]LogFileHelpers: Auto-saving content packages took 3.572
+[2020.10.19-15.50.20:148][698]BlueprintLog: New page: Compile bpAI
+[2020.10.19-15.50.24:866][698]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.10.19-15.50.30:582][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bpAI" FILE="../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Content/bpAI.uasset" SILENT=true
+[2020.10.19-15.50.31:868][740]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/bpAI9B20AEA24AA5AC582377CFB8C7EA0D5F.tmp' to '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Content/bpAI.uasset'
+[2020.10.19-15.50.32:530][740]AssetCheck: New page: Asset Save: bpAI
+[2020.10.19-15.50.32:605][740]LogContentValidation: Display: Validating Blueprint /Game/bpAI.bpAI
+[2020.10.19-15.50.38:859][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewPawn" FILE="../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Content/NewPawn.uasset" SILENT=true
+[2020.10.19-15.50.39:985][888]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/NewPawn900C12CB47A445AE9C508582697E0E54.tmp' to '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Content/NewPawn.uasset'
+[2020.10.19-15.50.40:495][888]AssetCheck: New page: Asset Save: NewPawn
+[2020.10.19-15.50.40:495][888]LogContentValidation: Display: Validating Blueprint /Game/NewPawn.NewPawn
+[2020.10.19-15.50.45:598][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/game" FILE="../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Content/game.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.19-15.50.46:207][ 82]LogUObjectHash: Compacting FUObjectHashTables data took  75.80ms
+[2020.10.19-15.50.46:361][ 82]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/game8CAAE20D41A4A55F933D32B8303A33E6.tmp' to '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Content/game.umap'
+[2020.10.19-15.50.47:201][ 82]AssetCheck: New page: Asset Save: game
+[2020.10.19-15.50.47:201][ 82]LogContentValidation: Display: Validating World /Game/game.game
