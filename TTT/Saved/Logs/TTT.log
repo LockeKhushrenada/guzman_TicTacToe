@@ -841,3 +841,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.19-16.11.11:085][762]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/bpAI286A8DC541A9426DB2963EB2988684FA.tmp' to '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Content/bpAI.uasset'
 [2020.10.19-16.11.11:100][762]AssetCheck: New page: Asset Save: bpAI
 [2020.10.19-16.11.11:100][762]LogContentValidation: Display: Validating Blueprint /Game/bpAI.bpAI
+[2020.10.19-16.12.14:212][449]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2020.10.19-16.12.14:239][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/game" FILE="../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Autosaves/Game/game_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.10.19-16.12.14:460][449]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/game_Auto113CFA83843E023C5150D69823AA02A03.tmp' to '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Autosaves/Game/game_Auto1.umap'
+[2020.10.19-16.12.14:463][449]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/game' took 0.288
+[2020.10.19-16.12.14:463][449]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.288
+[2020.10.19-16.24.08:338][161]BlueprintLog: New page: Compile bpAI
+[2020.10.19-16.24.08:563][161]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.10.19-16.24.09:869][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bpAI" FILE="../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Content/bpAI.uasset" SILENT=true
+[2020.10.19-16.24.10:613][204]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/bpAI61DD70B64704D4E7900E88A1B8D12B99.tmp' to '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Content/bpAI.uasset'
+[2020.10.19-16.24.10:628][204]AssetCheck: New page: Asset Save: bpAI
+[2020.10.19-16.24.10:628][204]LogContentValidation: Display: Validating Blueprint /Game/bpAI.bpAI
