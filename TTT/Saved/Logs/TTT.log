@@ -852,3 +852,50 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.19-16.24.10:613][204]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/bpAI61DD70B64704D4E7900E88A1B8D12B99.tmp' to '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Content/bpAI.uasset'
 [2020.10.19-16.24.10:628][204]AssetCheck: New page: Asset Save: bpAI
 [2020.10.19-16.24.10:628][204]LogContentValidation: Display: Validating Blueprint /Game/bpAI.bpAI
+[2020.10.19-16.24.37:858][574]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.10.19-16.24.38:080][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/game" FILE="../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Autosaves/Game/game_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.10.19-16.24.38:304][574]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/game_Auto28B6BAE474335C7CC465D37BB8B916187.tmp' to '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Autosaves/Game/game_Auto2.umap'
+[2020.10.19-16.24.38:306][574]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/game' took 0.477
+[2020.10.19-16.24.38:306][574]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.477
+[2020.10.19-16.44.33:750][108]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.10.19-16.44.34:250][108]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.10.19-16.52.02:215][403]LogEditorTransaction: Undo Resize Node
+[2020.10.19-16.52.52:741][938]LogEditorTransaction: Undo Move Node
+[2020.10.19-16.54.27:527][697]LogEditorTransaction: Undo Move Node
+[2020.10.19-16.56.00:370][154]BlueprintLog: New page: Compile bpAI
+[2020.10.19-16.56.00:978][154]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2020.10.19-16.56.21:146][ 46]BlueprintLog: New page: Compile bpAI
+[2020.10.19-16.56.21:196][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.10.19-16.56.56:319][767]LogEditorTransaction: Undo Move Node
+[2020.10.19-16.57.55:581][871]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.10.19-16.57.55:588][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/game" FILE="../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Autosaves/Game/game_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.10.19-16.57.56:256][871]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/game_Auto3541D41F146AE7FE2C5C1BF94C2770DD0.tmp' to '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Autosaves/Game/game_Auto3.umap'
+[2020.10.19-16.57.56:525][871]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/game' took 0.989
+[2020.10.19-16.57.56:526][871]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.989
+[2020.10.19-16.57.56:609][871]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bpAI] ([1] browsable assets)...
+[2020.10.19-16.57.56:609][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/bpAI]
+[2020.10.19-16.57.56:609][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bpAI" FILE="../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Autosaves/Game/bpAI_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.10.19-16.57.58:113][871]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/bpAI_Auto3E216272D41FAB5068B5D23B7105E2F61.tmp' to '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Autosaves/Game/bpAI_Auto3.uasset'
+[2020.10.19-16.57.58:136][871]LogFileHelpers: Auto-saving content packages took 1.610
+[2020.10.19-16.57.58:847][887]BlueprintLog: New page: Compile bpAI
+[2020.10.19-16.57.59:125][887]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.10.19-16.57.59:883][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bpAI" FILE="../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Content/bpAI.uasset" SILENT=true
+[2020.10.19-16.58.00:448][904]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/bpAIB901F14C48116A991B273CBB04A7D244.tmp' to '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Content/bpAI.uasset'
+[2020.10.19-16.58.00:516][904]AssetCheck: New page: Asset Save: bpAI
+[2020.10.19-16.58.00:516][904]LogContentValidation: Display: Validating Blueprint /Game/bpAI.bpAI
+[2020.10.19-16.58.02:912][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/game" FILE="../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Content/game.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.19-16.58.03:098][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.10.19-16.58.03:169][ 13]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/game2430786D48E5F375794D8A93C08A2DA9.tmp' to '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Content/game.umap'
+[2020.10.19-16.58.03:312][ 13]AssetCheck: New page: Asset Save: game
+[2020.10.19-16.58.03:312][ 13]LogContentValidation: Display: Validating World /Game/game.game
+[2020.10.19-16.58.19:547][626]BlueprintLog: New page: Compile bpAI
+[2020.10.19-16.58.19:669][626]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2020.10.19-16.58.21:725][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bpAI" FILE="../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Content/bpAI.uasset" SILENT=true
+[2020.10.19-16.58.22:846][690]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/bpAI1D33A8E94868118461898E9DD3A30426.tmp' to '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Content/bpAI.uasset'
+[2020.10.19-16.58.22:904][690]AssetCheck: New page: Asset Save: bpAI
+[2020.10.19-16.58.22:904][690]LogContentValidation: Display: Validating Blueprint /Game/bpAI.bpAI
+[2020.10.19-16.58.24:278][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/game" FILE="../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Content/game.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.19-16.58.24:312][751]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.10.19-16.58.24:470][751]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/game4315EFC647AAA12F60CB4DABF07821DE.tmp' to '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Content/game.umap'
+[2020.10.19-16.58.24:525][751]AssetCheck: New page: Asset Save: game
+[2020.10.19-16.58.24:525][751]LogContentValidation: Display: Validating World /Game/game.game
