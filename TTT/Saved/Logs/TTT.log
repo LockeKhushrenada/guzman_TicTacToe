@@ -809,3 +809,35 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.19-15.50.46:361][ 82]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/game8CAAE20D41A4A55F933D32B8303A33E6.tmp' to '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Content/game.umap'
 [2020.10.19-15.50.47:201][ 82]AssetCheck: New page: Asset Save: game
 [2020.10.19-15.50.47:201][ 82]LogContentValidation: Display: Validating World /Game/game.game
+[2020.10.19-16.01.38:716][132]BlueprintLog: New page: Compile bpAI
+[2020.10.19-16.01.38:863][132]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.10.19-16.01.39:696][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bpAI" FILE="../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Content/bpAI.uasset" SILENT=true
+[2020.10.19-16.01.40:299][149]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/bpAI8B6F519944693B2084976988AB9432BA.tmp' to '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Content/bpAI.uasset'
+[2020.10.19-16.01.40:313][149]AssetCheck: New page: Asset Save: bpAI
+[2020.10.19-16.01.40:313][149]LogContentValidation: Display: Validating Blueprint /Game/bpAI.bpAI
+[2020.10.19-16.02.04:529][149]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.10.19-16.02.04:585][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/game" FILE="../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Autosaves/Game/game_Auto0.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.10.19-16.02.04:667][149]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/game_Auto0419C27D149B88D974C5150950D721435.tmp' to '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/Autosaves/Game/game_Auto0.umap'
+[2020.10.19-16.02.04:670][149]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/game' took 0.200
+[2020.10.19-16.02.04:670][149]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.200
+[2020.10.19-16.07.21:762][344]LogEditorTransaction: Undo Delete current selection
+[2020.10.19-16.07.44:912][344]BlueprintLog: New page: Compile bpAI
+[2020.10.19-16.07.45:200][344]LogBlueprint: Warning: [Compiler bpAI] Set i  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2020.10.19-16.07.45:645][344]LogUObjectHash: Compacting FUObjectHashTables data took  17.53ms
+[2020.10.19-16.08.05:611][224]BlueprintLog: New page: Compile bpAI
+[2020.10.19-16.08.05:959][224]LogBlueprint: Warning: [Compiler bpAI] Set i  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2020.10.19-16.08.06:174][224]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2020.10.19-16.09.16:427][882]BlueprintLog: New page: Compile bpAI
+[2020.10.19-16.09.16:796][882]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.10.19-16.09.17:547][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bpAI" FILE="../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Content/bpAI.uasset" SILENT=true
+[2020.10.19-16.09.18:249][907]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/bpAI5A4F1D6E45084EEBA7569C8DE59F9E6A.tmp' to '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Content/bpAI.uasset'
+[2020.10.19-16.09.18:264][907]AssetCheck: New page: Asset Save: bpAI
+[2020.10.19-16.09.18:264][907]LogContentValidation: Display: Validating Blueprint /Game/bpAI.bpAI
+[2020.10.19-16.11.09:248][727]BlueprintLog: New page: Compile bpAI
+[2020.10.19-16.11.09:473][727]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.10.19-16.11.09:765][735]BlueprintLog: New page: Compile bpAI
+[2020.10.19-16.11.09:906][735]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.10.19-16.11.10:714][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bpAI" FILE="../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Content/bpAI.uasset" SILENT=true
+[2020.10.19-16.11.11:085][762]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Saved/bpAI286A8DC541A9426DB2963EB2988684FA.tmp' to '../../../../../../Users/Khush/Documents/GitHub/guzman_TicTacToe/TTT/Content/bpAI.uasset'
+[2020.10.19-16.11.11:100][762]AssetCheck: New page: Asset Save: bpAI
+[2020.10.19-16.11.11:100][762]LogContentValidation: Display: Validating Blueprint /Game/bpAI.bpAI
